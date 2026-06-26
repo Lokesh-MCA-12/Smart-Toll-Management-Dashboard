@@ -1,0 +1,48 @@
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model TollPlaza {
+  id       Int     @id @default(autoincrement())
+  name     String  @unique
+  acronym  String  @unique
+  sequence Int
+}
+
+model TollRate {
+  id          Int     @id @default(autoincrement())
+  entryPlaza  String
+  exitPlaza   String
+  rateClass1  Float
+  rateClass2  Float
+  rateClass3  Float
+
+  @@unique([entryPlaza, exitPlaza])
+}
+
+model VehicleAccount {
+  id           Int           @id @default(autoincrement())
+  rfidTag      String        @unique
+  ownerName    String
+  licensePlate String        @unique
+  vehicleClass Int           // 1, 2, or 3
+  balance      Float
+  createdAt    DateTime      @default(now())
+}
+
+model Transaction {
+  id             Int       @id @default(autoincrement())
+  rfidTag        String
+  licensePlate   String
+  vehicleClass   Int
+  entryPlaza     String
+  exitPlaza      String
+  chargedAmount  Float
+  timestamp      DateTime  @default(now())
+  status         String    // "COMPLETED" or "INSUFFICIENT_FUNDS" or "FAILED"
+}

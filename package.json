@@ -1,0 +1,12 @@
+{
+  "name": "smart-toll-management-dashboard-project",
+  "version": "1.0.0",
+  "description": "Smart Toll Management Dashboard System with Real-Time Events and Pricing Control",
+  "scripts": {
+    "install:all": "npm install --prefix \"Source Code/backend\" && npm install --prefix \"Source Code/frontend\"",
+    "db:init": "npm run prisma:migrate --prefix \"Source Code/backend\" && npm run prisma:seed --prefix \"Source Code/backend\"",
+    "dev:backend": "npm run dev --prefix \"Source Code/backend\"",
+    "dev:frontend": "npm run dev --prefix \"Source Code/frontend\"",
+    "dev": "npx -y concurrently \"npm run dev:backend\" \"npm run dev:frontend\""
+  }
+}

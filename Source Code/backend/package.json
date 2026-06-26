@@ -1,0 +1,29 @@
+{
+  "name": "smart-toll-backend",
+  "version": "1.0.0",
+  "description": "Backend API and simulation engine for Smart Toll Management Dashboard",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "ts-node src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "prisma:generate": "prisma generate",
+    "prisma:migrate": "prisma migrate dev",
+    "prisma:seed": "ts-node prisma/seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.12.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "smart-toll-management-dashboard-project": "file:../.."
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.7",
+    "prisma": "^5.12.1",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.5"
+  }
+}

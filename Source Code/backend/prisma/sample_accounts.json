@@ -1,0 +1,212 @@
+[
+  {
+    "rfidTag": "RFID10001",
+    "ownerName": "Jesus Cruz",
+    "licensePlate": "TYR-3177",
+    "vehicleClass": 2,
+    "balance": 2218
+  },
+  {
+    "rfidTag": "RFID10002",
+    "ownerName": "Ricardo Diaz",
+    "licensePlate": "BVC-4832",
+    "vehicleClass": 3,
+    "balance": 2403
+  },
+  {
+    "rfidTag": "RFID10003",
+    "ownerName": "Maria Santiago",
+    "licensePlate": "BVC-2073",
+    "vehicleClass": 1,
+    "balance": 217
+  },
+  {
+    "rfidTag": "RFID10004",
+    "ownerName": "Manuel Santiago",
+    "licensePlate": "WSX-5481",
+    "vehicleClass": 1,
+    "balance": 2086
+  },
+  {
+    "rfidTag": "RFID10005",
+    "ownerName": "Luis Bautista",
+    "licensePlate": "WSX-4965",
+    "vehicleClass": 1,
+    "balance": 567
+  },
+  {
+    "rfidTag": "RFID10006",
+    "ownerName": "Ricardo Fernandez",
+    "licensePlate": "KMN-5594",
+    "vehicleClass": 1,
+    "balance": 709
+  },
+  {
+    "rfidTag": "RFID10007",
+    "ownerName": "Manuel Robredo",
+    "licensePlate": "VBC-5038",
+    "vehicleClass": 2,
+    "balance": 1276
+  },
+  {
+    "rfidTag": "RFID10008",
+    "ownerName": "Jose Bautista",
+    "licensePlate": "NBI-8965",
+    "vehicleClass": 3,
+    "balance": 1526
+  },
+  {
+    "rfidTag": "RFID10009",
+    "ownerName": "Corazon Poe",
+    "licensePlate": "QAZ-3370",
+    "vehicleClass": 1,
+    "balance": 109
+  },
+  {
+    "rfidTag": "RFID10010",
+    "ownerName": "Juan Dela Cruz",
+    "licensePlate": "WSX-1442",
+    "vehicleClass": 1,
+    "balance": 392
+  },
+  {
+    "rfidTag": "RFID10011",
+    "ownerName": "Jose Castro",
+    "licensePlate": "MKL-9577",
+    "vehicleClass": 2,
+    "balance": 1593
+  },
+  {
+    "rfidTag": "RFID10012",
+    "ownerName": "Leticia Ramos",
+    "licensePlate": "QAZ-1632",
+    "vehicleClass": 1,
+    "balance": 1726
+  },
+  {
+    "rfidTag": "RFID10013",
+    "ownerName": "Imelda Gonzales",
+    "licensePlate": "CXA-2700",
+    "vehicleClass": 1,
+    "balance": 494
+  },
+  {
+    "rfidTag": "RFID10014",
+    "ownerName": "Luis Marcos",
+    "licensePlate": "TYR-8350",
+    "vehicleClass": 1,
+    "balance": 415
+  },
+  {
+    "rfidTag": "RFID10015",
+    "ownerName": "Manuel Fernandez",
+    "licensePlate": "VBC-2561",
+    "vehicleClass": 1,
+    "balance": 255
+  },
+  {
+    "rfidTag": "RFID10016",
+    "ownerName": "Luis Santiago",
+    "licensePlate": "VBC-3887",
+    "vehicleClass": 2,
+    "balance": 302
+  },
+  {
+    "rfidTag": "RFID10017",
+    "ownerName": "Gloria Duterte",
+    "licensePlate": "EDC-8891",
+    "vehicleClass": 1,
+    "balance": 1414
+  },
+  {
+    "rfidTag": "RFID10018",
+    "ownerName": "Jaime Fernandez",
+    "licensePlate": "NBI-7245",
+    "vehicleClass": 1,
+    "balance": 1717
+  },
+  {
+    "rfidTag": "RFID10019",
+    "ownerName": "Corazon Cruz",
+    "licensePlate": "JHG-9267",
+    "vehicleClass": 1,
+    "balance": 234
+  },
+  {
+    "rfidTag": "RFID10020",
+    "ownerName": "Jaime Garcia",
+    "licensePlate": "WSX-8195",
+    "vehicleClass": 1,
+    "balance": 1580
+  },
+  {
+    "rfidTag": "RFID10021",
+    "ownerName": "Jaime Castro",
+    "licensePlate": "NBI-4419",
+    "vehicleClass": 1,
+    "balance": 2235
+  },
+  {
+    "rfidTag": "RFID10022",
+    "ownerName": "Gloria Marcos",
+    "licensePlate": "TYR-6051",
+    "vehicleClass": 1,
+    "balance": 1975
+  },
+  {
+    "rfidTag": "RFID10023",
+    "ownerName": "Manuel Gonzales",
+    "licensePlate": "ZSE-8668",
+    "vehicleClass": 1,
+    "balance": 2361
+  },
+  {
+    "rfidTag": "RFID10024",
+    "ownerName": "Carlos Duterte",
+    "licensePlate": "KMN-1328",
+    "vehicleClass": 1,
+    "balance": 2236
+  },
+  {
+    "rfidTag": "RFID10025",
+    "ownerName": "Jose Duterte",
+    "licensePlate": "TYR-1220",
+    "vehicleClass": 1,
+    "balance": 656
+  },
+  {
+    "rfidTag": "RFID10026",
+    "ownerName": "Francisca Duterte",
+    "licensePlate": "KMN-6176",
+    "vehicleClass": 1,
+    "balance": 2500
+  },
+  {
+    "rfidTag": "RFID10027",
+    "ownerName": "Maria Santos",
+    "licensePlate": "QAZ-3109",
+    "vehicleClass": 2,
+    "balance": 923
+  },
+  {
+    "rfidTag": "RFID10028",
+    "ownerName": "Antonio Robredo",
+    "licensePlate": "TRE-5699",
+    "vehicleClass": 1,
+    "balance": 811
+  },
+  {
+    "rfidTag": "RFID10029",
+    "ownerName": "Jesus Santiago",
+    "licensePlate": "EDC-4568",
+    "vehicleClass": 1,
+    "balance": 512
+  },
+  {
+    "rfidTag": "RFID10030",
+    "ownerName": "Jesus Fernandez",
+    "licensePlate": "NDG-5301",
+    "vehicleClass": 1,
+    "balance": 674
+  }
+]
