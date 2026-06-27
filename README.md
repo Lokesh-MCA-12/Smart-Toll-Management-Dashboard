@@ -4,6 +4,9 @@ A real-time, modern full-stack web application designed for smart highway toll p
 
 ![System Preview](Image_file.PNG)
 
+## 📺 Demo Video
+<video src="./Demo Video-Smart Toll Management Dashboard.mp4" controls width="100%"></video>
+
 ---
 
 ## 🚀 Key Features
