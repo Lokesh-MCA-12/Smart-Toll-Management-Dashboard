@@ -5,7 +5,7 @@ A real-time, modern full-stack web application designed for smart highway toll p
 ![System Preview](Image_file.PNG)
 
 ## 📺 Demo Video
-<video src="./Demo Video-Smart Toll Management Dashboard.mp4" controls width="100%"></video>
+<video src="https://github.com/Lokesh-MCA-12/Smart-Toll-Management-Dashboard/raw/main/Demo%20Video-Smart%20Toll%20Management%20Dashboard.mp4" controls width="100%"></video>
 
 ---
 
